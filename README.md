@@ -12,9 +12,9 @@
   - Soft Tissue cancer (43.28%)
   - Melanoma (41%)
   - Uterine cancer (20%)
-  - Biliary Tract cancer (16.9%) \
-Остальные типы представлены в pdf-файле. 
+  - Biliary Tract cancer (16.9%)
 
+Остальные типы представлены в pdf-файле. 
 Все скриншоты по поиску представлены в файле AFM_muts.pdf
 ## Part 2
 Поиск мутаций осуществлялcя с помощью Python:
