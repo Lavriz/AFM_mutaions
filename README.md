@@ -16,8 +16,12 @@
 Остальные типы представлены в pdf-файле. 
 Все скриншоты по поиску представлены в файле AFM_muts.pdf (ссылка)
 ## Part 2
-Поиск мутаций осуществляляся с помощью Python:
-Donor | Found mutations | Why
------------- | ------------- | ------------- 
-Content from cell 1 | Content from cell 2 | sdf
-Content in the first column | Content in the second column  | sdf
+Поиск мутаций осуществлялcя с помощью Python:
+File | Donor | Found mutations?| Why
+------------ | ------------- | ------------- | ------------- 
+SSM_AFM.ipynb | DO222843 | Yes | AFM в основном есть в Skin cancer, поэтому был выбран донор, у которого данный тип рака + проект MELA-AU (он первый в рейтинге для AFM)
+SSM_AFM-2.ipynb| DO229546  | No | Проект UTCA-FR четвертый по частотности, поэтому было интересно, находится ли там мутации
+SSM_AFM-3.ipynb| DO229446  | Yes | Проект SKCA-BR третий по частотности, и мутации нашлись
+SSM_AFM-4.ipynb| DO229177  | No | Проект LMS-FR представлен второй по частотности
+Файл с мутациями AFM лежит на github (muts_AFM.tsv)
+
