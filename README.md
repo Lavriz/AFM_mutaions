@@ -20,7 +20,7 @@
 File | Gene | Found mutations? (Number)| Why chose
 ------------ | ------------- | ------------- | ------------- 
 SSM_AFM-4.ipynb | PCDH15 | Yes (14725568) | AFM в основном есть в **Skin cancer**, поэтому был выбран геном, у которого данный тип рака + проект **MELA-AU**, он первый в [рейтинге](https://dcc.icgc.org/genes/ENSG00000079557/mutations) для AFM
-SSM_AFM.ipynb| KCND2 | No | **Uterine cancer** + Проект **LMS-FR** **UTCA-FR** второй по частотности, поэтому было интересно, находится ли там мутации
+SSM_AFM.ipynb| KCND2 | No | **Uterine cancer** + Проект **LMS-FR** второй по частотности, поэтому было интересно, находится ли там мутации
 SSM_AFM-2.ipynb| SGCZ | Yes (1288) | **Melanoma** + Проект **SKCA-BR** третий по частотности
 SSM_AFM-3.ipynb| MGAT4C | Yes (1) | **Soft Tussie cancer** + Проект **UTCA-FR** представлен четвертый по частотности
 
