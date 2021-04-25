@@ -5,7 +5,8 @@
   - 67% всех мутаций -- missense (= относятся к структурным), меняют нуклеиновые кислоты (НК)
   - 25% -- synonymous (=относятся к структурным), не меняют НК
   - 6% -- truncating (=deletion), укорачивает белок
-  - 2% -- splice-site, согласно определению "a genetic alteration in the DNA sequence that occurs at the boundary of an exon and an intron (splice site). This change can disrupt RNA splicing resulting in the loss of exons or the inclusion of introns and an altered protein-coding sequence." \ [ссылка на определение](https://www.cancer.gov/publications/dictionaries/genetics-dictionary/def/splice-site-mutation) То есть здесь может произойти и deletion, и insertion, и change. 
+  - 2% -- splice-site, согласно определению "a genetic alteration in the DNA sequence that occurs at the boundary of an exon and an intron (splice site). This change can disrupt RNA splicing resulting in the loss of exons or the inclusion of introns and an altered protein-coding sequence." \
+[ссылка на определение](https://www.cancer.gov/publications/dictionaries/genetics-dictionary/def/splice-site-mutation) То есть здесь может произойти и deletion, и insertion, и change. 
 2. Самые частотные типы рака, где встречается AFM: 
   - Skin cancer (61.2%)
   - Soft Tissue cancer (43.28%)
