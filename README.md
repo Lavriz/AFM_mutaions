@@ -19,7 +19,7 @@
 Поиск мутаций осуществлялcя с помощью Python:
 File | Donor | Found mutations?| Why
 ------------ | ------------- | ------------- | ------------- 
-SSM_AFM.ipynb | DO222843 | Yes | AFM в основном есть в Skin cancer, поэтому был выбран донор, у которого данный тип рака + проект MELA-AU (он первый в [рейтинге] (https://dcc.icgc.org/genes/ENSG00000079557/mutations) для AFM)
+SSM_AFM.ipynb | DO222843 | Yes | AFM в основном есть в Skin cancer, поэтому был выбран донор, у которого данный тип рака + проект MELA-AU, он первый в [рейтинге](https://dcc.icgc.org/genes/ENSG00000079557/mutations) для AFM
 SSM_AFM-2.ipynb| DO229546  | No | Проект UTCA-FR четвертый по частотности, поэтому было интересно, находится ли там мутации
 SSM_AFM-3.ipynb| DO229446  | Yes | Проект SKCA-BR третий по частотности, и мутации нашлись
 SSM_AFM-4.ipynb| DO229177  | No | Проект LMS-FR представлен второй по частотности 
