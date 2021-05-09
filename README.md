@@ -3,7 +3,7 @@
 0. На сайте IntOGEN нет данных о том, в каких типа рака мутировал данный ген. 
 1. Типы мутаций: 
   - 67% -- **missense** (= относятся к точечным), меняют нуклеиновые кислоты (НК)
-  - 25% -- **synonymous** (=относятся к структурным), не меняют НК
+  - 25% -- **synonymous** (=относятся к точечным), не меняют НК
   - 6% -- **truncating** (= относятся к cтруктурным), укорачивает белок
   - 2% -- **splice-site**, согласно определению "a genetic alteration in the DNA sequence that occurs at the boundary of an exon and an intron (splice site). This change can disrupt RNA splicing resulting in the loss of exons or the inclusion of introns and an altered protein-coding sequence." То есть здесь может произойти и deletion, и insertion, и change (структурные мутации) [ссылка на определение](https://www.cancer.gov/publications/dictionaries/genetics-dictionary/def/splice-site-mutation)
 2. Самые частотные типы рака, где встречается AFM: 
